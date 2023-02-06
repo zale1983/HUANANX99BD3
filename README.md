@@ -1,4 +1,4 @@
-HUANANZHIB75<br/>
+HUANANZHIX99BD3(B85 Chip)<br/>
 
 HARDWARE:<br/>
  - E5 2673 v3<br/>
@@ -6,7 +6,7 @@ HARDWARE:<br/>
  - HUANAN JINPAI X99 BD3<br/>
 <br/>
 Support Mac Version:<br/>
- - macOS Catalina 10.15.7<br/>
+ - macOS Catalina 12.6.2<br/>
 <br/>
 BIOS:<br/>
  - Disable<br/>
