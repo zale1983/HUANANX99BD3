@@ -23,3 +23,4 @@ OC SMBIOS:<br/>
  - SMBIOS iMacPro1,1(may not work)<br/>
 <br/>
 Other:<br/>
+USE YOUR OWN SIMBIOS <br/>
