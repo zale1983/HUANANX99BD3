@@ -6,7 +6,7 @@ HARDWARE:<br/>
  - HUANAN JINPAI X99 BD3<br/>
 <br/>
 Support Mac Version:<br/>
- - macOS Catalina 12.6.2<br/>
+ - macOS Monterey 12.6.2<br/>
 <br/>
 BIOS:<br/>
  - Disable<br/>
